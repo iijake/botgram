@@ -46,8 +46,7 @@ or consult the [documentation].**
 
 
 [bots]: https://core.telegram.org/bots
-[connect]: https://github.com/senchalabs/connect
 
-[tutorial]: https://github.com/botgram/botgram/blob/master/docs/tutorial.md
-[examples]: https://github.com/botgram/botgram/tree/master/examples
-[documentation]: https://github.com/botgram/botgram/blob/master/docs/index.md
+[tutorial]: https://github.com/iijake/botgram/blob/master/docs/tutorial.md
+[examples]: https://github.com/iijake/botgram/tree/master/examples
+[documentation]: https://github.com/iijake/botgram/blob/master/docs/index.md
